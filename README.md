@@ -1,7 +1,5 @@
 # Learning Data Analysis and ML
 
-## Getting Started
-
 ### 1. Clone the Repository
 
 ```bash
