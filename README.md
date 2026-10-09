@@ -38,17 +38,6 @@ jupyter notebook
 4. Open the desired `.ipynb` file in your browser.
 5. Execute the notebook cells to run the code.
 
-## Repository Structure
-
-```text
-Learning-data-analysis-and-ML/
-│
-├── notebooks/          # Jupyter notebooks for learning and practice
-├── datasets/           # Datasets used in the notebooks
-├── README.md           # Project documentation
-└── requirements.txt    # Required Python libraries
-```
-
 ## Objective
 
 To build a strong foundation in data analysis and machine learning through consistent practice, experimentation, and hands-on projects.
